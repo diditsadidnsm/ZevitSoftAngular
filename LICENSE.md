@@ -1,6 +1,6 @@
-Envato Standard License
+Javtore Indonesia Standard License
 
-Copyright (c) Sercan Yemen <sercanyemen@gmail.com>
+Copyright (c) Nashiruddien Sadid <diditsadidnsm180818@gmail.com>
 
-This project is protected by Envato's Standard License. For more information,
-check the official license page at [https://themeforest.net/licenses/standard](https://themeforest.net/licenses/standard)
+This project is protected by Javtore Indonesia Standard License. For more information,
+check the official license page at [https://www.javtore.com](https://www.javtore.com)
