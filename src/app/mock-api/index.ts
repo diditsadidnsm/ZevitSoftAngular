@@ -8,7 +8,6 @@ import { ContactsMockApi } from 'app/mock-api/apps/contacts/api';
 import { ECommerceInventoryMockApi } from 'app/mock-api/apps/ecommerce/inventory/api';
 import { FileManagerMockApi } from 'app/mock-api/apps/file-manager/api';
 import { HelpCenterMockApi } from 'app/mock-api/apps/help-center/api';
-import { IconsMockApi } from 'app/mock-api/ui/icons/api';
 import { MailboxMockApi } from 'app/mock-api/apps/mailbox/api';
 import { MessagesMockApi } from 'app/mock-api/common/messages/api';
 import { NavigationMockApi } from 'app/mock-api/common/navigation/api';
@@ -32,7 +31,6 @@ export const mockApiServices = [
     ECommerceInventoryMockApi,
     FileManagerMockApi,
     HelpCenterMockApi,
-    IconsMockApi,
     MailboxMockApi,
     MessagesMockApi,
     NavigationMockApi,
